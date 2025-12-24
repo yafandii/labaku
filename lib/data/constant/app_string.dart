@@ -1,4 +1,4 @@
-import 'package:boilerplate/data/constant/app_assets.dart';
+import 'package:labaku/data/constant/app_assets.dart';
 
 class AppString {
   static String baseUrl = '';

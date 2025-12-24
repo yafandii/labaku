@@ -1,4 +1,4 @@
-import 'package:boilerplate/data/constant/app_font.dart';
+import 'package:labaku/data/constant/app_font.dart';
 import 'package:flutter/material.dart';
 
 class ItemTitleSection extends StatelessWidget {

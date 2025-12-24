@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:boilerplate/data/remote/product_remote.dart';
+import 'package:labaku/data/remote/product_remote.dart';
 import 'package:dio/dio.dart';
 import 'package:dio/io.dart';
 import 'package:flutter/foundation.dart';

@@ -1,4 +1,4 @@
-package com.example.boilerplate
+package com.example.labaku
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,4 +1,4 @@
-import 'package:boilerplate/data/constant/app_color.dart';
+import 'package:labaku/data/constant/app_color.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 

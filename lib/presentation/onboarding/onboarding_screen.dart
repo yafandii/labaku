@@ -1,8 +1,8 @@
-import 'package:boilerplate/data/constant/app_assets.dart';
-import 'package:boilerplate/data/constant/app_color.dart';
-import 'package:boilerplate/data/constant/app_font.dart';
-import 'package:boilerplate/presentation/landing/landing_screen.dart';
-import 'package:boilerplate/presentation/widgets/button/base_button.dart';
+import 'package:labaku/data/constant/app_assets.dart';
+import 'package:labaku/data/constant/app_color.dart';
+import 'package:labaku/data/constant/app_font.dart';
+import 'package:labaku/presentation/landing/landing_screen.dart';
+import 'package:labaku/presentation/widgets/button/base_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 

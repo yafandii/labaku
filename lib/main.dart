@@ -1,9 +1,9 @@
-import 'package:boilerplate/data/constant/app_string.dart';
+import 'package:labaku/data/constant/app_string.dart';
 
-import 'package:boilerplate/injection.dart';
-import 'package:boilerplate/my_app.dart';
-import 'package:boilerplate/utils/flavor.dart';
-import 'package:boilerplate/utils/utilities.dart';
+import 'package:labaku/injection.dart';
+import 'package:labaku/my_app.dart';
+import 'package:labaku/utils/flavor.dart';
+import 'package:labaku/utils/utilities.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

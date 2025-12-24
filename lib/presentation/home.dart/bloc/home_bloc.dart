@@ -1,10 +1,10 @@
 import 'dart:async';
 
 import 'package:bloc/bloc.dart';
-import 'package:boilerplate/data/constant/app_assets.dart';
-import 'package:boilerplate/data/models/categories_model.dart';
-import 'package:boilerplate/data/models/product_model.dart';
-import 'package:boilerplate/domain/usecases/product_usecases/product_usecases.dart';
+import 'package:labaku/data/constant/app_assets.dart';
+import 'package:labaku/data/models/categories_model.dart';
+import 'package:labaku/data/models/product_model.dart';
+import 'package:labaku/domain/usecases/product_usecases/product_usecases.dart';
 import 'package:equatable/equatable.dart';
 import 'package:formz/formz.dart';
 import 'package:injectable/injectable.dart';

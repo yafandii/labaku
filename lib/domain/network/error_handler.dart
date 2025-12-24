@@ -1,5 +1,5 @@
-import 'package:boilerplate/data/constant/app_string.dart';
-import 'package:boilerplate/domain/network/failure.dart';
+import 'package:labaku/data/constant/app_string.dart';
+import 'package:labaku/domain/network/failure.dart';
 import 'package:dio/dio.dart';
 
 class ErrorHandler implements Exception {

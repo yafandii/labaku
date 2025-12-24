@@ -1,5 +1,5 @@
-import 'package:boilerplate/data/models/categories_model.dart';
-import 'package:boilerplate/data/models/product_model.dart';
+import 'package:labaku/data/models/categories_model.dart';
+import 'package:labaku/data/models/product_model.dart';
 import 'package:dio/dio.dart';
 import 'package:retrofit/error_logger.dart';
 

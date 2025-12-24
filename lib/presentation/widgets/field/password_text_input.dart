@@ -1,5 +1,5 @@
-import 'package:boilerplate/data/constant/app_color.dart';
-import 'package:boilerplate/presentation/widgets/field/base_text_input.dart';
+import 'package:labaku/data/constant/app_color.dart';
+import 'package:labaku/presentation/widgets/field/base_text_input.dart';
 import 'package:flutter/material.dart';
 
 class PasswordTextInput extends StatefulWidget {

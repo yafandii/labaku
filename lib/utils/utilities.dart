@@ -1,4 +1,4 @@
-import 'package:boilerplate/utils/flavor.dart';
+import 'package:labaku/utils/flavor.dart';
 import 'package:flutter/material.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 

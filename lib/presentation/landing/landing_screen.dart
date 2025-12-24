@@ -1,12 +1,12 @@
 import 'dart:io';
 
-import 'package:boilerplate/data/constant/app_assets.dart';
-import 'package:boilerplate/data/constant/app_color.dart';
-import 'package:boilerplate/data/constant/app_font.dart';
-import 'package:boilerplate/presentation/auth/sign_in/sign_in_screen.dart';
-import 'package:boilerplate/presentation/auth/sign_up/sign_up_screen.dart';
-import 'package:boilerplate/presentation/landing/widget/social_media_button.dart';
-import 'package:boilerplate/presentation/widgets/button/base_button.dart';
+import 'package:labaku/data/constant/app_assets.dart';
+import 'package:labaku/data/constant/app_color.dart';
+import 'package:labaku/data/constant/app_font.dart';
+import 'package:labaku/presentation/auth/sign_in/sign_in_screen.dart';
+import 'package:labaku/presentation/auth/sign_up/sign_up_screen.dart';
+import 'package:labaku/presentation/landing/widget/social_media_button.dart';
+import 'package:labaku/presentation/widgets/button/base_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 

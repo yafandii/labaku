@@ -9,21 +9,21 @@
 // coverage:ignore-file
 
 // ignore_for_file: no_leading_underscores_for_library_prefixes
-import 'package:boilerplate/data/constant/register_module.dart' as _i1018;
-import 'package:boilerplate/data/remote/product_remote.dart' as _i255;
-import 'package:boilerplate/data/repository/product_repository/product_repository_impl.dart'
+import 'package:labaku/data/constant/register_module.dart' as _i1018;
+import 'package:labaku/data/remote/product_remote.dart' as _i255;
+import 'package:labaku/data/repository/product_repository/product_repository_impl.dart'
     as _i501;
-import 'package:boilerplate/domain/repository/product_repository/product_repository.dart'
+import 'package:labaku/domain/repository/product_repository/product_repository.dart'
     as _i580;
-import 'package:boilerplate/domain/usecases/product_usecases/product_usecases.dart'
+import 'package:labaku/domain/usecases/product_usecases/product_usecases.dart'
     as _i470;
-import 'package:boilerplate/presentation/auth/sign_in/bloc/sign_in_bloc.dart'
+import 'package:labaku/presentation/auth/sign_in/bloc/sign_in_bloc.dart'
     as _i827;
-import 'package:boilerplate/presentation/auth/sign_up/bloc/sign_up_bloc.dart'
+import 'package:labaku/presentation/auth/sign_up/bloc/sign_up_bloc.dart'
     as _i447;
-import 'package:boilerplate/presentation/home.dart/bloc/home_bloc.dart'
+import 'package:labaku/presentation/home.dart/bloc/home_bloc.dart'
     as _i604;
-import 'package:boilerplate/presentation/splash_screen/bloc/splashscreen_bloc.dart'
+import 'package:labaku/presentation/splash_screen/bloc/splashscreen_bloc.dart'
     as _i288;
 import 'package:dio/dio.dart' as _i361;
 import 'package:get_it/get_it.dart' as _i174;

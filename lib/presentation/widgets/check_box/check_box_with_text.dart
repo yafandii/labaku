@@ -1,6 +1,6 @@
-import 'package:boilerplate/data/constant/app_color.dart';
-import 'package:boilerplate/data/constant/app_font.dart';
-import 'package:boilerplate/presentation/widgets/check_box/base_check_box.dart';
+import 'package:labaku/data/constant/app_color.dart';
+import 'package:labaku/data/constant/app_font.dart';
+import 'package:labaku/presentation/widgets/check_box/base_check_box.dart';
 import 'package:flutter/material.dart';
 
 class CheckBoxText extends StatefulWidget {

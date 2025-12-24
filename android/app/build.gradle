@@ -24,8 +24,8 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace = "com.example.boilerplate"
-    compileSdk = localProperties.getProperty('flutter.compileSdkVersion').toInteger()
+    namespace = "com.example.labaku"
+    compileSdk = 35
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
@@ -39,7 +39,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.example.boilerplate"
+        applicationId = "com.example.labaku"
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
         minSdk = flutter.minSdkVersion
@@ -61,17 +61,17 @@ android {
     productFlavors {
         dev {
             dimension 'default'
-            applicationId 'com.boilerplate.dev'
+            applicationId 'com.labaku.dev'
             manifestPlaceholders = [
-                    appName: 'Boilerplate Dev',
+                    appName: 'Labaku Dev',
             ]
         }
         prod {
             dimension 'default'
              
-            applicationId 'com.boilerplate'
+            applicationId 'com.labaku'
             manifestPlaceholders = [
-                    appName: 'Boilerplate',
+                    appName: 'Labaku',
             ]
         }
     }

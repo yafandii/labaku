@@ -1,14 +1,14 @@
-import 'package:boilerplate/injection.dart';
-import 'package:boilerplate/presentation/auth/sign_in/bloc/sign_in_bloc.dart';
-import 'package:boilerplate/presentation/auth/sign_in/sign_in_screen.dart';
-import 'package:boilerplate/presentation/auth/sign_up/bloc/sign_up_bloc.dart';
-import 'package:boilerplate/presentation/auth/sign_up/sign_up_screen.dart';
-import 'package:boilerplate/presentation/landing/landing_screen.dart';
-import 'package:boilerplate/presentation/home.dart/bloc/home_bloc.dart';
-import 'package:boilerplate/presentation/home.dart/home_screen.dart';
-import 'package:boilerplate/presentation/onboarding/onboarding_screen.dart';
-import 'package:boilerplate/presentation/splash_screen/bloc/splashscreen_bloc.dart';
-import 'package:boilerplate/presentation/splash_screen/splash_screen.dart';
+import 'package:labaku/injection.dart';
+import 'package:labaku/presentation/auth/sign_in/bloc/sign_in_bloc.dart';
+import 'package:labaku/presentation/auth/sign_in/sign_in_screen.dart';
+import 'package:labaku/presentation/auth/sign_up/bloc/sign_up_bloc.dart';
+import 'package:labaku/presentation/auth/sign_up/sign_up_screen.dart';
+import 'package:labaku/presentation/landing/landing_screen.dart';
+import 'package:labaku/presentation/home.dart/bloc/home_bloc.dart';
+import 'package:labaku/presentation/home.dart/home_screen.dart';
+import 'package:labaku/presentation/onboarding/onboarding_screen.dart';
+import 'package:labaku/presentation/splash_screen/bloc/splashscreen_bloc.dart';
+import 'package:labaku/presentation/splash_screen/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

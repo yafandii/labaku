@@ -1,6 +1,6 @@
 {
-    "name": "boilerplate",
-    "short_name": "boilerplate",
+    "name": "labaku",
+    "short_name": "labaku",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFF",

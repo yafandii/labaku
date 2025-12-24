@@ -1,7 +1,7 @@
-import 'package:boilerplate/data/constant/app_assets.dart';
-import 'package:boilerplate/data/constant/app_color.dart';
-import 'package:boilerplate/data/constant/app_font.dart';
-import 'package:boilerplate/data/models/grid_menu_model.dart';
+import 'package:labaku/data/constant/app_assets.dart';
+import 'package:labaku/data/constant/app_color.dart';
+import 'package:labaku/data/constant/app_font.dart';
+import 'package:labaku/data/models/grid_menu_model.dart';
 import 'package:flutter/material.dart';
 
 class ItemGridMenu extends StatelessWidget {

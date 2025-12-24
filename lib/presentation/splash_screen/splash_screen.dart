@@ -1,8 +1,8 @@
-import 'package:boilerplate/data/constant/app_assets.dart';
-import 'package:boilerplate/data/constant/app_color.dart';
-import 'package:boilerplate/injection.dart';
-import 'package:boilerplate/presentation/onboarding/onboarding_screen.dart';
-import 'package:boilerplate/presentation/splash_screen/bloc/splashscreen_bloc.dart';
+import 'package:labaku/data/constant/app_assets.dart';
+import 'package:labaku/data/constant/app_color.dart';
+import 'package:labaku/injection.dart';
+import 'package:labaku/presentation/onboarding/onboarding_screen.dart';
+import 'package:labaku/presentation/splash_screen/bloc/splashscreen_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:lottie/lottie.dart';
