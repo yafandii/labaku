@@ -27,6 +27,8 @@ class AppAssets {
   static const String others = 'assets/icon/gridmenu/others.png';
 
   //icon svg
+  static const String logoFull = 'assets/icon/logo-full.svg';
+
   static const String likeIcon = 'assets/icon/ic_like.svg';
   static const String likeFilledIcon = 'assets/icon/ic_like_filled.svg';
   static const String filterIcon = 'assets/icon/ic_filter.svg';
