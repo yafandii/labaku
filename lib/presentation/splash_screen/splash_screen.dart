@@ -3,10 +3,9 @@ import 'package:labaku/data/constant/app_assets.dart';
 import 'package:labaku/data/constant/app_color.dart';
 import 'package:labaku/data/constant/app_font.dart';
 import 'package:labaku/injection.dart';
-import 'package:labaku/presentation/onboarding/onboarding_screen.dart';
+import 'package:labaku/presentation/home.dart/home_screen.dart';
 import 'package:labaku/presentation/splash_screen/bloc/splashscreen_bloc.dart';
 import 'package:flutter/material.dart';
-
 
 class SplashScreen extends StatefulWidget {
   static const routeName = '/splash-screen';
@@ -23,9 +22,10 @@ class _SplashScreenState extends State<SplashScreen> {
   void initState() {
     super.initState();
     splashscreenBloc = getIt<SplashscreenBloc>();
-    Future.delayed(const Duration(seconds: 2), () {
+    Future.delayed(const Duration(seconds: 3), () {
       if (mounted) {
-        Navigator.pushReplacementNamed(context, Onboarding.routeName);
+        print('SplashScreen # Navigator.pushReplacementNamed');
+        Navigator.pushReplacementNamed(context, HomeScreen.routeName);
       }
     });
   }

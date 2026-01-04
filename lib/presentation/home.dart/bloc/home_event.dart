@@ -7,16 +7,7 @@ class HomeEvent extends Equatable {
 
 class HomeInitialEvent extends HomeEvent {}
 
-class GetProductsEvent extends HomeEvent {}
-
-class CarouselIndexChangeEvent extends HomeEvent {
+class ChangeIndexEvent extends HomeEvent {
   final int index;
-  CarouselIndexChangeEvent(this.index);
-}
-
-class LoadImageBannerEvent extends HomeEvent {}
-
-class SelectedCategoriesCHangeEvent extends HomeEvent {
-  final int index;
-  SelectedCategoriesCHangeEvent(this.index);
+  ChangeIndexEvent(this.index);
 }

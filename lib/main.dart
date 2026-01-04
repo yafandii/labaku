@@ -18,6 +18,7 @@ Future<FlavorConfig> _setupFlavor() async {
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
   _setupFlavor();
   configureInjection('dev');
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);

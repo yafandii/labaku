@@ -3,6 +3,7 @@ class AppAssets {
   static const String logo = 'assets/lottie/dark_logo.json';
   static const String icNotification = 'assets/lottie/ic_notification.json';
   static const String searchIcon = 'assets/lottie/ic_search.json';
+  static const String wallet = 'assets/lottie/ic_wallet.json';
 
   //images
   static const String onboardingImage = 'assets/images/onboarding.png';
@@ -28,10 +29,11 @@ class AppAssets {
 
   //icon svg
   static const String logoFull = 'assets/icon/logo-full.svg';
-
   static const String likeIcon = 'assets/icon/ic_like.svg';
   static const String likeFilledIcon = 'assets/icon/ic_like_filled.svg';
   static const String filterIcon = 'assets/icon/ic_filter.svg';
+  static const String icTransaction = 'assets/icon/ic_transaction.svg';
+  static const String icProduct = 'assets/icon/ic_product.svg';
 
   //fonts
   static const String urbanist = 'urbanist';

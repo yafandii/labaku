@@ -8,4 +8,6 @@ class AppColor {
   static const red = Color.fromRGBO(229, 57, 53, 1);
   static const yellow = Color(0xFFFBC02D);
   static const whiteSmoke = Color(0xFFC0C0C0);
+  static const primaryBlue = Color(0xFF123356);
+  static const gold = Color(0xFFB6893C);
 }
